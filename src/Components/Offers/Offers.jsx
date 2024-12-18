@@ -7,7 +7,7 @@ export default function Offers() {
       <div className="offers-left">
         <h1>Exclusive</h1>
         <h1>Offers</h1>
-        <h2>Only for you</h2>
+        <p>Only for you</p>
         <button>Check Now</button>
       </div>
 

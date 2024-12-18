@@ -2,7 +2,7 @@
     width: 65%;
     height: 60vh;
     display: flex;
-    margin: auto;
+    margin-left: 100px;
     padding: 0px 140px;
     margin-bottom: 150px;
     background: linear-gradient(180deg,white 0%,grey 60%);
@@ -16,17 +16,19 @@
 }
 .offers-left h1{
     color: black;
-    font-size: 80px;
+    font-size: 40px;
     font-weight: 600;
+    font-family: poppins;
 }
 .offers-left p{
     color: black;
-    font-size: 22px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: poppins;
 }
 .offers-left button {
-    width: 282px;
-    height: 70px;
+    width: 150px;
+    height: 50px;
     border-radius: 35px;
     background: red;
     border: none;

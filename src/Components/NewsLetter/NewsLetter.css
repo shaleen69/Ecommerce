@@ -14,26 +14,31 @@
 }
 .newsletter h1{
     color: green;
-    font-size: 55px;
-    font-weight: 600;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: poppins;
 }
 
 .newsletter p{
     color: grey;
     font-size: 20px;
+    font-family: poppins;
 }
 .newsletter div{
     display: flex;
     align-items: center;
     justify-content: space-between;
     background: white;
-    width: 730px;
+    width: 500px;
+    margin-bottom: 20px;
     height: 70px;
     border-radius: 80px;
     border: 1px solid white;
+
 }
 .newsletter input{
     width: 500px;
+    height: 25px;
     margin-left: 30px;
     border: none;
     outline: none;
@@ -49,4 +54,8 @@
     color: white;
     font-size: 16px;
     cursor: pointer;
+}
+.inp{
+    width: 100px;
+    height: 20px;
 }
