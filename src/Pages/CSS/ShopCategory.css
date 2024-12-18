@@ -10,15 +10,22 @@
     justify-content: space-between;
     align-items: center;
 }
-
+.shopcategory-sort img {
+    margin-left: 15px;
+    display: flex;
+}
 .shopcategory-sort{
     padding: 10px 20px;
     border-radius: 40px;
     border: 1px solid #888;
+    font-family: poppins;
+   
 }
 
 .shopcategory-indexSort p span{
     font-weight: 600;
+    font-family: poppins;
+    margin-left: auto;
 }
 
 .shopcategory-products{
